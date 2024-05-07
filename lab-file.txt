@@ -1,0 +1,4 @@
+Access the Github repository "lab-exam-repo" provided for the exam .
+create a new file named "lab-file.txt" containing any content you prefer.
+Add commit,and push the "lab-file.txt" to the github repository using git commands
+Verify that the file has been pushed successfully by checking the git hub repository.
